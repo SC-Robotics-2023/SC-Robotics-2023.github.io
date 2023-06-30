@@ -236,9 +236,6 @@
   content: '\e90a';
 }
 
-.lg-toolbar .lg-download:after {
-  content: '\e0f2';
-}
 
 .lg-sub-html {
   color: #eee;
@@ -564,10 +561,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   display: none;
 }
 
-.lg-outer.lg-hide-download .lg-download {
-  opacity: 0.75;
-  pointer-events: none;
-}
+
 
 .lg-outer .lg-first-slide .lg-dummy-img {
   position: absolute;
